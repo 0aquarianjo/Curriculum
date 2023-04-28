@@ -1,0 +1,45 @@
+#titulo {
+    color: burlywood;
+    font: Verdana;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+p, li {
+    color: #000000;
+    text-align: justify;
+    font: Verdana;
+    font-size: 22px;
+    padding: 2px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: grid;
+}
+.text {
+    color: #000000;
+    text-align: justify;
+    font: Verdana;
+    font-size: 22px;
+    padding: 2px;
+    margin-left: 40px;
+    margin-right: 40px;
+    display: grid;
+    text-align: center;  
+}
+h2{
+    color: burlywood;
+    text-align: center;
+    font: Verdana;
+    font-size: 28px;
+    font-weight: bold;
+}
+.bloco{
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: cornsilk;
+    border: 5px ridge rgb(175, 164, 122);
+    box-shadow:  2px 2px 2px 1px rgba(44, 42, 36, 0.658);
+}
+.photo{
+    float: right;
+}
